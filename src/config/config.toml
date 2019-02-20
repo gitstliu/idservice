@@ -1,0 +1,6 @@
+[sysconf]
+ServicePort = 10080
+WorkerId = 1
+DatacenterId = 1
+IDBufferSize = 300000
+
